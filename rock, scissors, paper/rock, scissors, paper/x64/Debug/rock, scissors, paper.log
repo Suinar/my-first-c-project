@@ -1,0 +1,3 @@
+﻿  rock, scissors, paper.cpp
+C:\Users\38068\Desktop\програмування\с++ (projects)\rock, scissors, paper\rock, scissors, paper\rock, scissors, paper.cpp(4,1): error C2008: ';': unexpected in macro definition
+C:\Users\38068\Desktop\програмування\с++ (projects)\rock, scissors, paper\rock, scissors, paper\rock, scissors, paper.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
